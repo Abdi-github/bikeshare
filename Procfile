@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True bikeshare.ipynb
+web: voila web: voila --port=$PORT --no-browser bikeshare.ipynb
